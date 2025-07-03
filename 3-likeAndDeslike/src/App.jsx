@@ -1,5 +1,5 @@
 import React from "react";
-import LikeDislike from "./LikeDislike";
+import LikeDislike from "./likeDislike";
 
 function App() {
   return (
